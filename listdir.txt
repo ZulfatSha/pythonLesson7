@@ -1,0 +1,2 @@
+files: ['bill.py', 'bill.txt', 'Console_file_manager.py', 'listdir.txt', 'orders.txt']
+folders: ['.idea', 'venv']
